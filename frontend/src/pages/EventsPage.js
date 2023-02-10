@@ -23,8 +23,8 @@ export async function loader() {
 
   if (!response.ok) {
     // return new Response();
-    // return {isError: true, message: 'Could not fetch events'};
-    throw {message: 'Could not fetch events'};
+    return {isError: true, message: 'Could not fetch events'};
+    // throw {message: 'Could not fetch events'};
   } else {
     return response;
   }
