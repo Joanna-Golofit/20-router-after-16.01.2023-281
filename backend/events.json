@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"dwa","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2Fcss3_images.asp&psig=AOvVaw2m8QdNRYxS7EsIqy3sVoHq&ust=1677151352734000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDso-aBqf0CFQAAAAAdAAAAABAE","date":"2023-02-23","description":"haha","id":"b74e6f09-64dd-47c7-a0be-480a386df80c"},{"title":"jezu","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr5N4hVSkDvgpFUoJd_637q3kx5eVu67emBapaTnU&s","date":"2023-03-04","description":"lece!","id":"a5979d12-4553-4571-bea2-ef9df962ebf5"},{"title":"xv","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWje_gjVcmi-wks5nTRnW_xv5W2l3MVnk7W1QDcZuhNg&s","date":"2023-02-24","description":"vxxxv","id":"1d8d68d9-d273-42d9-82f0-323d8a022ce0"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
